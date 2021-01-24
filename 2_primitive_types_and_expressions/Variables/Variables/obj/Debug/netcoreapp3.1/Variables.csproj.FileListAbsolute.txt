@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\2_primitive_types_and_expressions\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+C:\Users\tomas\Documents\anna\repos\2_primitive_types_and_expressions\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+C:\Users\tomas\Documents\anna\repos\2_primitive_types_and_expressions\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\2_primitive_types_and_expressions\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\2_primitive_types_and_expressions\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+C:\Users\tomas\Documents\anna\repos\2_primitive_types_and_expressions\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\tomas\Documents\anna\repos\2_primitive_types_and_expressions\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\2_primitive_types_and_expressions\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\2_primitive_types_and_expressions\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\2_primitive_types_and_expressions\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\2_primitive_types_and_expressions\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+C:\Users\tomas\Documents\anna\repos\2_primitive_types_and_expressions\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\tomas\Documents\anna\repos\2_primitive_types_and_expressions\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.genruntimeconfig.cache
