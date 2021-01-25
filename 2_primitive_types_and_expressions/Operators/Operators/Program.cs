@@ -22,6 +22,8 @@ namespace Operators
             var b = 2;
             var c = 3;
             Console.WriteLine(!(a <= 3 && b < 3 || b == c));
+
+            // * Bitewise Operators use single & and |
         }
     }
 }
