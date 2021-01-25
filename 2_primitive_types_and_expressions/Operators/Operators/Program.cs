@@ -23,7 +23,7 @@ namespace Operators
             var c = 3;
             Console.WriteLine(!(a <= 3 && b < 3 || b == c));
 
-            // * Bitewise Operators use single & and |
+            // Bitwise Operators use single & and | (they are used in low-level programming)
         }
     }
 }
