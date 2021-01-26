@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.exe
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.deps.json
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.dll
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.dll
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
