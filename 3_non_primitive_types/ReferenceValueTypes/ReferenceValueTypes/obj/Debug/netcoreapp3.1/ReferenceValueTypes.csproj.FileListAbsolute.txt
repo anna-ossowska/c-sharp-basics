@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes\ReferenceValueTypes\bin\Debug\netcoreapp3.1\ReferenceValueTypes.exe
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes\ReferenceValueTypes\bin\Debug\netcoreapp3.1\ReferenceValueTypes.deps.json
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes\ReferenceValueTypes\bin\Debug\netcoreapp3.1\ReferenceValueTypes.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes\ReferenceValueTypes\bin\Debug\netcoreapp3.1\ReferenceValueTypes.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes\ReferenceValueTypes\bin\Debug\netcoreapp3.1\ReferenceValueTypes.dll
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes\ReferenceValueTypes\bin\Debug\netcoreapp3.1\ReferenceValueTypes.pdb
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes\ReferenceValueTypes\obj\Debug\netcoreapp3.1\ReferenceValueTypes.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes\ReferenceValueTypes\obj\Debug\netcoreapp3.1\ReferenceValueTypes.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes\ReferenceValueTypes\obj\Debug\netcoreapp3.1\ReferenceValueTypes.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes\ReferenceValueTypes\obj\Debug\netcoreapp3.1\ReferenceValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes\ReferenceValueTypes\obj\Debug\netcoreapp3.1\ReferenceValueTypes.dll
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes\ReferenceValueTypes\obj\Debug\netcoreapp3.1\ReferenceValueTypes.pdb
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes\ReferenceValueTypes\obj\Debug\netcoreapp3.1\ReferenceValueTypes.genruntimeconfig.cache
