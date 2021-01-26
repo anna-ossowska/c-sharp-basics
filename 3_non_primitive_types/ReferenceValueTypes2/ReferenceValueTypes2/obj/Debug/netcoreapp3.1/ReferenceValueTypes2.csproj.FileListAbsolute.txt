@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes2\ReferenceValueTypes2\bin\Debug\netcoreapp3.1\ReferenceValueTypes2.exe
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes2\ReferenceValueTypes2\bin\Debug\netcoreapp3.1\ReferenceValueTypes2.deps.json
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes2\ReferenceValueTypes2\bin\Debug\netcoreapp3.1\ReferenceValueTypes2.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes2\ReferenceValueTypes2\bin\Debug\netcoreapp3.1\ReferenceValueTypes2.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes2\ReferenceValueTypes2\bin\Debug\netcoreapp3.1\ReferenceValueTypes2.dll
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes2\ReferenceValueTypes2\bin\Debug\netcoreapp3.1\ReferenceValueTypes2.pdb
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes2\ReferenceValueTypes2\obj\Debug\netcoreapp3.1\ReferenceValueTypes2.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes2\ReferenceValueTypes2\obj\Debug\netcoreapp3.1\ReferenceValueTypes2.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes2\ReferenceValueTypes2\obj\Debug\netcoreapp3.1\ReferenceValueTypes2.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes2\ReferenceValueTypes2\obj\Debug\netcoreapp3.1\ReferenceValueTypes2.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes2\ReferenceValueTypes2\obj\Debug\netcoreapp3.1\ReferenceValueTypes2.dll
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes2\ReferenceValueTypes2\obj\Debug\netcoreapp3.1\ReferenceValueTypes2.pdb
+C:\Users\tomas\Documents\anna\repos\3_non_primitive_types\ReferenceValueTypes2\ReferenceValueTypes2\obj\Debug\netcoreapp3.1\ReferenceValueTypes2.genruntimeconfig.cache
