@@ -1,0 +1,12 @@
+C:\Users\tomas\Documents\anna\repos\4_control_flow\WhileLoops\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.exe
+C:\Users\tomas\Documents\anna\repos\4_control_flow\WhileLoops\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.deps.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\WhileLoops\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\WhileLoops\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\WhileLoops\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.dll
+C:\Users\tomas\Documents\anna\repos\4_control_flow\WhileLoops\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.pdb
+C:\Users\tomas\Documents\anna\repos\4_control_flow\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\4_control_flow\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.dll
+C:\Users\tomas\Documents\anna\repos\4_control_flow\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.pdb
+C:\Users\tomas\Documents\anna\repos\4_control_flow\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.genruntimeconfig.cache
