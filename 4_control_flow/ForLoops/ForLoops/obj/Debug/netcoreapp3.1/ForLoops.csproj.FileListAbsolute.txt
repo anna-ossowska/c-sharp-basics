@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.exe
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.deps.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.dll
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.pdb
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.dll
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.pdb
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.genruntimeconfig.cache
