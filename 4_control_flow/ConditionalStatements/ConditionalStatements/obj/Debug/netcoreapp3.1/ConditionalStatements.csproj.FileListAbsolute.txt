@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatements\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.exe
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatements\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.deps.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatements\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatements\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatements\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.dll
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatements\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.pdb
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatements\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatements\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatements\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatements\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatements\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.dll
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatements\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.pdb
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatements\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.genruntimeconfig.cache
