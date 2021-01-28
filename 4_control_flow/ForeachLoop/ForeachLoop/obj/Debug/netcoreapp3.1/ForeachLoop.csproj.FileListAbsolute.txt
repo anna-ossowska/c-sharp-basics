@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForeachLoop\ForeachLoop\bin\Debug\netcoreapp3.1\ForeachLoop.exe
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForeachLoop\ForeachLoop\bin\Debug\netcoreapp3.1\ForeachLoop.deps.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForeachLoop\ForeachLoop\bin\Debug\netcoreapp3.1\ForeachLoop.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForeachLoop\ForeachLoop\bin\Debug\netcoreapp3.1\ForeachLoop.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForeachLoop\ForeachLoop\bin\Debug\netcoreapp3.1\ForeachLoop.dll
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForeachLoop\ForeachLoop\bin\Debug\netcoreapp3.1\ForeachLoop.pdb
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForeachLoop\ForeachLoop\obj\Debug\netcoreapp3.1\ForeachLoop.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForeachLoop\ForeachLoop\obj\Debug\netcoreapp3.1\ForeachLoop.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForeachLoop\ForeachLoop\obj\Debug\netcoreapp3.1\ForeachLoop.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForeachLoop\ForeachLoop\obj\Debug\netcoreapp3.1\ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForeachLoop\ForeachLoop\obj\Debug\netcoreapp3.1\ForeachLoop.dll
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForeachLoop\ForeachLoop\obj\Debug\netcoreapp3.1\ForeachLoop.pdb
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ForeachLoop\ForeachLoop\obj\Debug\netcoreapp3.1\ForeachLoop.genruntimeconfig.cache
