@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\4_control_flow\RandomClass\RandomClass\bin\Debug\netcoreapp3.1\RandomClass.exe
+C:\Users\tomas\Documents\anna\repos\4_control_flow\RandomClass\RandomClass\bin\Debug\netcoreapp3.1\RandomClass.deps.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\RandomClass\RandomClass\bin\Debug\netcoreapp3.1\RandomClass.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\RandomClass\RandomClass\bin\Debug\netcoreapp3.1\RandomClass.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\RandomClass\RandomClass\bin\Debug\netcoreapp3.1\RandomClass.dll
+C:\Users\tomas\Documents\anna\repos\4_control_flow\RandomClass\RandomClass\bin\Debug\netcoreapp3.1\RandomClass.pdb
+C:\Users\tomas\Documents\anna\repos\4_control_flow\RandomClass\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\RandomClass\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\RandomClass\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\4_control_flow\RandomClass\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\RandomClass\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.dll
+C:\Users\tomas\Documents\anna\repos\4_control_flow\RandomClass\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.pdb
+C:\Users\tomas\Documents\anna\repos\4_control_flow\RandomClass\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.genruntimeconfig.cache
