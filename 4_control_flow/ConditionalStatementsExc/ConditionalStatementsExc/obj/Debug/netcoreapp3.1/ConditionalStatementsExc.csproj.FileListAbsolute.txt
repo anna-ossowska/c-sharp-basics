@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatementsExc\ConditionalStatementsExc\bin\Debug\netcoreapp3.1\ConditionalStatementsExc.exe
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatementsExc\ConditionalStatementsExc\bin\Debug\netcoreapp3.1\ConditionalStatementsExc.deps.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatementsExc\ConditionalStatementsExc\bin\Debug\netcoreapp3.1\ConditionalStatementsExc.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatementsExc\ConditionalStatementsExc\bin\Debug\netcoreapp3.1\ConditionalStatementsExc.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatementsExc\ConditionalStatementsExc\bin\Debug\netcoreapp3.1\ConditionalStatementsExc.dll
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatementsExc\ConditionalStatementsExc\bin\Debug\netcoreapp3.1\ConditionalStatementsExc.pdb
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatementsExc\ConditionalStatementsExc\obj\Debug\netcoreapp3.1\ConditionalStatementsExc.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatementsExc\ConditionalStatementsExc\obj\Debug\netcoreapp3.1\ConditionalStatementsExc.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatementsExc\ConditionalStatementsExc\obj\Debug\netcoreapp3.1\ConditionalStatementsExc.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatementsExc\ConditionalStatementsExc\obj\Debug\netcoreapp3.1\ConditionalStatementsExc.dll
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatementsExc\ConditionalStatementsExc\obj\Debug\netcoreapp3.1\ConditionalStatementsExc.pdb
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatementsExc\ConditionalStatementsExc\obj\Debug\netcoreapp3.1\ConditionalStatementsExc.genruntimeconfig.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ConditionalStatementsExc\ConditionalStatementsExc\obj\Debug\netcoreapp3.1\ConditionalStatementsExc.csprojAssemblyReference.cache
