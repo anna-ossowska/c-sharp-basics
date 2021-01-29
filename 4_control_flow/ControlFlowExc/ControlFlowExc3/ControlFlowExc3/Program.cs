@@ -20,7 +20,7 @@ namespace ControlFlowExc3
                 input = Console.ReadLine();
                 var inputToInt = Convert.ToInt32(input);
 
-                // Create an array of incremented values;
+                // Create an array of decremented values;
                 var arrDecrement = new List<int>();
                 for (var i = inputToInt; i >= 1; i--)
                 {
