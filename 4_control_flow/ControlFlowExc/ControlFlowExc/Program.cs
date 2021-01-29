@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ControlFlowExc
+namespace ControlFlowExc1
 {
     class Program
     {
