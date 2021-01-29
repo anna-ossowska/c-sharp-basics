@@ -1,0 +1,12 @@
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc\bin\Debug\netcoreapp3.1\ControlFlowExc.exe
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc\bin\Debug\netcoreapp3.1\ControlFlowExc.deps.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc\bin\Debug\netcoreapp3.1\ControlFlowExc.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc\bin\Debug\netcoreapp3.1\ControlFlowExc.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc\bin\Debug\netcoreapp3.1\ControlFlowExc.dll
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc\bin\Debug\netcoreapp3.1\ControlFlowExc.pdb
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc\obj\Debug\netcoreapp3.1\ControlFlowExc.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc\obj\Debug\netcoreapp3.1\ControlFlowExc.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc\obj\Debug\netcoreapp3.1\ControlFlowExc.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc\obj\Debug\netcoreapp3.1\ControlFlowExc.dll
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc\obj\Debug\netcoreapp3.1\ControlFlowExc.pdb
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc\obj\Debug\netcoreapp3.1\ControlFlowExc.genruntimeconfig.cache
