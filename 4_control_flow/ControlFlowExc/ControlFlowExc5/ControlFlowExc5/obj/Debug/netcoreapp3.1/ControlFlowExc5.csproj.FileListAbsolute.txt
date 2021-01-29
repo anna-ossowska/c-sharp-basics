@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc5\ControlFlowExc5\bin\Debug\netcoreapp3.1\ControlFlowExc5.exe
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc5\ControlFlowExc5\bin\Debug\netcoreapp3.1\ControlFlowExc5.deps.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc5\ControlFlowExc5\bin\Debug\netcoreapp3.1\ControlFlowExc5.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc5\ControlFlowExc5\bin\Debug\netcoreapp3.1\ControlFlowExc5.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc5\ControlFlowExc5\bin\Debug\netcoreapp3.1\ControlFlowExc5.dll
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc5\ControlFlowExc5\bin\Debug\netcoreapp3.1\ControlFlowExc5.pdb
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc5\ControlFlowExc5\obj\Debug\netcoreapp3.1\ControlFlowExc5.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc5\ControlFlowExc5\obj\Debug\netcoreapp3.1\ControlFlowExc5.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc5\ControlFlowExc5\obj\Debug\netcoreapp3.1\ControlFlowExc5.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc5\ControlFlowExc5\obj\Debug\netcoreapp3.1\ControlFlowExc5.dll
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc5\ControlFlowExc5\obj\Debug\netcoreapp3.1\ControlFlowExc5.pdb
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc5\ControlFlowExc5\obj\Debug\netcoreapp3.1\ControlFlowExc5.genruntimeconfig.cache
+C:\Users\tomas\Documents\anna\repos\4_control_flow\ControlFlowExc\ControlFlowExc5\ControlFlowExc5\obj\Debug\netcoreapp3.1\ControlFlowExc5.csprojAssemblyReference.cache
