@@ -1,0 +1,12 @@
+C:\Users\tomas\Documents\anna\repos\6_working_with_dates\TimeSpanDemo\TimeSpanDemo\bin\Debug\netcoreapp3.1\TimeSpanDemo.exe
+C:\Users\tomas\Documents\anna\repos\6_working_with_dates\TimeSpanDemo\TimeSpanDemo\bin\Debug\netcoreapp3.1\TimeSpanDemo.deps.json
+C:\Users\tomas\Documents\anna\repos\6_working_with_dates\TimeSpanDemo\TimeSpanDemo\bin\Debug\netcoreapp3.1\TimeSpanDemo.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\6_working_with_dates\TimeSpanDemo\TimeSpanDemo\bin\Debug\netcoreapp3.1\TimeSpanDemo.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\6_working_with_dates\TimeSpanDemo\TimeSpanDemo\bin\Debug\netcoreapp3.1\TimeSpanDemo.dll
+C:\Users\tomas\Documents\anna\repos\6_working_with_dates\TimeSpanDemo\TimeSpanDemo\bin\Debug\netcoreapp3.1\TimeSpanDemo.pdb
+C:\Users\tomas\Documents\anna\repos\6_working_with_dates\TimeSpanDemo\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\6_working_with_dates\TimeSpanDemo\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\6_working_with_dates\TimeSpanDemo\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\6_working_with_dates\TimeSpanDemo\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.dll
+C:\Users\tomas\Documents\anna\repos\6_working_with_dates\TimeSpanDemo\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.pdb
+C:\Users\tomas\Documents\anna\repos\6_working_with_dates\TimeSpanDemo\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.genruntimeconfig.cache
