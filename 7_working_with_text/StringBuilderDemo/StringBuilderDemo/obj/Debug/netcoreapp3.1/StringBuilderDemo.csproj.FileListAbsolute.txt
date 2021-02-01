@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.exe
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.deps.json
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.dll
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.pdb
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.dll
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.pdb
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.genruntimeconfig.cache
