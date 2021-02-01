@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\SummarizingText\SummarizingText\bin\Debug\netcoreapp3.1\SummarizingText.exe
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\SummarizingText\SummarizingText\bin\Debug\netcoreapp3.1\SummarizingText.deps.json
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\SummarizingText\SummarizingText\bin\Debug\netcoreapp3.1\SummarizingText.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\SummarizingText\SummarizingText\bin\Debug\netcoreapp3.1\SummarizingText.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\SummarizingText\SummarizingText\bin\Debug\netcoreapp3.1\SummarizingText.dll
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\SummarizingText\SummarizingText\bin\Debug\netcoreapp3.1\SummarizingText.pdb
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\SummarizingText\SummarizingText\obj\Debug\netcoreapp3.1\SummarizingText.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\SummarizingText\SummarizingText\obj\Debug\netcoreapp3.1\SummarizingText.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\SummarizingText\SummarizingText\obj\Debug\netcoreapp3.1\SummarizingText.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\SummarizingText\SummarizingText\obj\Debug\netcoreapp3.1\SummarizingText.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\SummarizingText\SummarizingText\obj\Debug\netcoreapp3.1\SummarizingText.dll
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\SummarizingText\SummarizingText\obj\Debug\netcoreapp3.1\SummarizingText.pdb
+C:\Users\tomas\Documents\anna\repos\7_working_with_text\SummarizingText\SummarizingText\obj\Debug\netcoreapp3.1\SummarizingText.genruntimeconfig.cache
