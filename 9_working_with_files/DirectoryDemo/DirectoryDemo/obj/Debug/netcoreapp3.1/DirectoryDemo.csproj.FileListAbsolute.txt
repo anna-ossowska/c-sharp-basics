@@ -1,0 +1,12 @@
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\DirectoryDemo\DirectoryDemo\bin\Debug\netcoreapp3.1\DirectoryDemo.exe
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\DirectoryDemo\DirectoryDemo\bin\Debug\netcoreapp3.1\DirectoryDemo.deps.json
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\DirectoryDemo\DirectoryDemo\bin\Debug\netcoreapp3.1\DirectoryDemo.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\DirectoryDemo\DirectoryDemo\bin\Debug\netcoreapp3.1\DirectoryDemo.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\DirectoryDemo\DirectoryDemo\bin\Debug\netcoreapp3.1\DirectoryDemo.dll
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\DirectoryDemo\DirectoryDemo\bin\Debug\netcoreapp3.1\DirectoryDemo.pdb
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\DirectoryDemo\DirectoryDemo\obj\Debug\netcoreapp3.1\DirectoryDemo.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\DirectoryDemo\DirectoryDemo\obj\Debug\netcoreapp3.1\DirectoryDemo.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\DirectoryDemo\DirectoryDemo\obj\Debug\netcoreapp3.1\DirectoryDemo.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\DirectoryDemo\DirectoryDemo\obj\Debug\netcoreapp3.1\DirectoryDemo.dll
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\DirectoryDemo\DirectoryDemo\obj\Debug\netcoreapp3.1\DirectoryDemo.pdb
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\DirectoryDemo\DirectoryDemo\obj\Debug\netcoreapp3.1\DirectoryDemo.genruntimeconfig.cache
