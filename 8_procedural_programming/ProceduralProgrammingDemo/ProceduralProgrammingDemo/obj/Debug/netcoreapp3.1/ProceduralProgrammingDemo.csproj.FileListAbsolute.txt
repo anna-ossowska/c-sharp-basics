@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\8_procedural_programming\ProceduralProgrammingDemo\ProceduralProgrammingDemo\bin\Debug\netcoreapp3.1\ProceduralProgrammingDemo.exe
+C:\Users\tomas\Documents\anna\repos\8_procedural_programming\ProceduralProgrammingDemo\ProceduralProgrammingDemo\bin\Debug\netcoreapp3.1\ProceduralProgrammingDemo.deps.json
+C:\Users\tomas\Documents\anna\repos\8_procedural_programming\ProceduralProgrammingDemo\ProceduralProgrammingDemo\bin\Debug\netcoreapp3.1\ProceduralProgrammingDemo.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\8_procedural_programming\ProceduralProgrammingDemo\ProceduralProgrammingDemo\bin\Debug\netcoreapp3.1\ProceduralProgrammingDemo.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\8_procedural_programming\ProceduralProgrammingDemo\ProceduralProgrammingDemo\bin\Debug\netcoreapp3.1\ProceduralProgrammingDemo.dll
+C:\Users\tomas\Documents\anna\repos\8_procedural_programming\ProceduralProgrammingDemo\ProceduralProgrammingDemo\bin\Debug\netcoreapp3.1\ProceduralProgrammingDemo.pdb
+C:\Users\tomas\Documents\anna\repos\8_procedural_programming\ProceduralProgrammingDemo\ProceduralProgrammingDemo\obj\Debug\netcoreapp3.1\ProceduralProgrammingDemo.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\8_procedural_programming\ProceduralProgrammingDemo\ProceduralProgrammingDemo\obj\Debug\netcoreapp3.1\ProceduralProgrammingDemo.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\8_procedural_programming\ProceduralProgrammingDemo\ProceduralProgrammingDemo\obj\Debug\netcoreapp3.1\ProceduralProgrammingDemo.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\8_procedural_programming\ProceduralProgrammingDemo\ProceduralProgrammingDemo\obj\Debug\netcoreapp3.1\ProceduralProgrammingDemo.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\8_procedural_programming\ProceduralProgrammingDemo\ProceduralProgrammingDemo\obj\Debug\netcoreapp3.1\ProceduralProgrammingDemo.dll
+C:\Users\tomas\Documents\anna\repos\8_procedural_programming\ProceduralProgrammingDemo\ProceduralProgrammingDemo\obj\Debug\netcoreapp3.1\ProceduralProgrammingDemo.pdb
+C:\Users\tomas\Documents\anna\repos\8_procedural_programming\ProceduralProgrammingDemo\ProceduralProgrammingDemo\obj\Debug\netcoreapp3.1\ProceduralProgrammingDemo.genruntimeconfig.cache
