@@ -20,11 +20,11 @@ namespace Exercise3
             var numbers = string.Concat(input.Substring(0, 2), input.Substring(3));
 
             // Define ranges
-            IEnumerable<int> range1 = Enumerable.Range(1, 2);
+            IEnumerable<int> range1 = Enumerable.Range(0, 2);
             IEnumerable<int> range2 = Enumerable.Range(2, 3);
             IEnumerable<int> range3 = Enumerable.Range(0, 10);
             IEnumerable<int> range4 = Enumerable.Range(0, 6);
-            IEnumerable<int> range5 = Enumerable.Range(0, 2);
+            IEnumerable<int> range5 = Enumerable.Range(0, 4);
 
             // Create an empty list for integers
             var numList = new List<int>();
