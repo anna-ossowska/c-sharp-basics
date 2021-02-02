@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\FileDemo\FileDemo\bin\Debug\netcoreapp3.1\FileDemo.exe
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\FileDemo\FileDemo\bin\Debug\netcoreapp3.1\FileDemo.deps.json
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\FileDemo\FileDemo\bin\Debug\netcoreapp3.1\FileDemo.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\FileDemo\FileDemo\bin\Debug\netcoreapp3.1\FileDemo.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\FileDemo\FileDemo\bin\Debug\netcoreapp3.1\FileDemo.dll
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\FileDemo\FileDemo\bin\Debug\netcoreapp3.1\FileDemo.pdb
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.dll
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.pdb
+C:\Users\tomas\Documents\anna\repos\9_working_with_files\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.genruntimeconfig.cache
