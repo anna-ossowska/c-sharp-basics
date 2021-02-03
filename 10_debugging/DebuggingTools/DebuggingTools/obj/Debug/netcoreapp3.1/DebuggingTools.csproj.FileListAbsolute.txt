@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\10_debugging\DebuggingTools\DebuggingTools\bin\Debug\netcoreapp3.1\DebuggingTools.exe
+C:\Users\tomas\Documents\anna\repos\10_debugging\DebuggingTools\DebuggingTools\bin\Debug\netcoreapp3.1\DebuggingTools.deps.json
+C:\Users\tomas\Documents\anna\repos\10_debugging\DebuggingTools\DebuggingTools\bin\Debug\netcoreapp3.1\DebuggingTools.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\10_debugging\DebuggingTools\DebuggingTools\bin\Debug\netcoreapp3.1\DebuggingTools.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\10_debugging\DebuggingTools\DebuggingTools\bin\Debug\netcoreapp3.1\DebuggingTools.dll
+C:\Users\tomas\Documents\anna\repos\10_debugging\DebuggingTools\DebuggingTools\bin\Debug\netcoreapp3.1\DebuggingTools.pdb
+C:\Users\tomas\Documents\anna\repos\10_debugging\DebuggingTools\DebuggingTools\obj\Debug\netcoreapp3.1\DebuggingTools.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\10_debugging\DebuggingTools\DebuggingTools\obj\Debug\netcoreapp3.1\DebuggingTools.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\10_debugging\DebuggingTools\DebuggingTools\obj\Debug\netcoreapp3.1\DebuggingTools.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\10_debugging\DebuggingTools\DebuggingTools\obj\Debug\netcoreapp3.1\DebuggingTools.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\10_debugging\DebuggingTools\DebuggingTools\obj\Debug\netcoreapp3.1\DebuggingTools.dll
+C:\Users\tomas\Documents\anna\repos\10_debugging\DebuggingTools\DebuggingTools\obj\Debug\netcoreapp3.1\DebuggingTools.pdb
+C:\Users\tomas\Documents\anna\repos\10_debugging\DebuggingTools\DebuggingTools\obj\Debug\netcoreapp3.1\DebuggingTools.genruntimeconfig.cache
